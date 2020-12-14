@@ -67,7 +67,6 @@ function addReposToCard(repos) {
 
 }
 
-
 function createErrorCard(message) {
     const cardHTML = `
     <div class="cards">
